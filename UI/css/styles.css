@@ -600,3 +600,13 @@ body {
 }
 
 
+
+/* HOME SECTION STYLES */
+.home-section .modify {
+  display: none;
+}
+
+.home-section .list-header {
+  font-size: 1.5em;
+  margin-left: 25%;
+}
