@@ -717,3 +717,10 @@ select{
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
 }
+
+
+/* EDIT RECORD STYLES */
+.edit-record-section {
+  flex: 1;
+  padding-bottom: 2em;
+}
