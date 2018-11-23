@@ -757,3 +757,24 @@ select{
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
 }
+
+/* DELETE RECORD STYLES */
+.delete-record-section {
+  flex: 1;
+  padding-bottom: 2em;
+}
+
+.record-item a {
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.del-btns {
+  position: relative;
+  left: 30%;
+}
+
+.delete-record-section .record-item {
+  position: relative;
+  top: 100px;
+}
