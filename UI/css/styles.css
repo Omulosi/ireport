@@ -724,3 +724,35 @@ select{
   flex: 1;
   padding-bottom: 2em;
 }
+
+
+/* ADMIN STYLES */
+
+.status-update {
+  font-size: 12px;
+  padding-bottom: 1em;
+}
+
+.status-update select {
+  font-size: 12px;
+}
+
+.record-status option {
+  font-size: 12px;
+  padding: 5px;
+}
+
+
+.btn-delete {
+  background: #3eb060;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  color: #fff;
+}
+
+.btn-delete:hover {
+  background: #3ea060;
+  box-shadow:none;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+}
