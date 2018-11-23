@@ -497,7 +497,7 @@ body {
 }
 
 .modify a {
-  padding: 3px;
+  padding: 4px;
 }
 
 .feed-footer a:hover {
@@ -506,6 +506,7 @@ body {
 
 .modify a ~ a {
   border-left: 1px solid #f32;
+  padding-left: 0.5em;
 }
 
 
